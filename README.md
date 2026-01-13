@@ -5,9 +5,9 @@ A production-ready Python implementation of fundamental data structures and algo
 <!--PROTECTED-START-->
 ## Project Attribution
 
-**Course:** CSE506 - Advanced Algorithms  
-**Institution:** Institute of Computer Sciences
-**Instructor:** Dr. Bruce Banner
+**Course:** CSE506 - Advanced Algorithms\
+**Institution:** Institute of Computer Sciences\
+**Instructor:** Dr. Bruce Banner\
 **Maintained by:** Tanmay Singh
 
 **Note:** This implementation follows CLRS (Introduction to Algorithms) conventions and has been reviewed by senior engineers at MAANG.
